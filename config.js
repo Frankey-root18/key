@@ -68,7 +68,7 @@ global.nameown = 'V4LL'
 
 
 /*============== STAFF ==============*/
-global.owner = [
+global.owner = [0162404578]
   ['0162404578', 'V4LL', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
