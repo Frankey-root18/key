@@ -33,7 +33,7 @@ import store from './lib/storee.js'
 const {
   //useSingleFileAuthState,
   DisconnectReason
-} = await import('@adiwajshing/baileys')
+} = await import('@whiskeysockets/baileys')
 
 const { CONNECTING } = ws
 const { chain } = lodash
